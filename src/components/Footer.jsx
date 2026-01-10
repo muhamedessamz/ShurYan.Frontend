@@ -40,7 +40,7 @@ const Footer = () => {
         
         {/* Copyright */}
         <div className="mt-8 pt-6 border-t border-gray-700 text-center">
-          <p className="text-white">&copy; 2025 <span className="font-bold">شريان</span>. جميع الحقوق محفوظة.</p>
+          <p className="text-white">&copy; 2026 <span className="font-bold">شريان</span>. جميع الحقوق محفوظة.</p>
         </div>
       </div>
     </footer>
