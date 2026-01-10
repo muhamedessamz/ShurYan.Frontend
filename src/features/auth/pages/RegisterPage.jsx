@@ -523,7 +523,7 @@ const RegisterPage = () => {
             <GoogleLoginButton userType={userType} />
 
             <div className="text-center flex justify-center mt-6">
-              <p className="text-sm text-slate-600 mb-2">لديك حساب بالفعل؟</p>
+              <p className="text-sm text-slate-600 mb-2"> لديك حساب بالفعل؟</p>
               <Link to="/login" className="text-sm font-semibold text-teal-600 hover:text-teal-700 hover:underline">
                 تسجيل الدخول
               </Link>
