@@ -1098,4 +1098,4 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-**Developed with ❤️ for DEPI Graduation Project 2025**
+**Developed with ❤️ for DEPI Graduation Project 2026**
